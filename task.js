@@ -1,4 +1,7 @@
-/*   var string1 = "Hello"
+/* Task 1: Concatenate Two Strings Without Using Methods
+Description: Manually append the characters of one string to another, character by character, without using any built-in string methods.
+
+var string1 = "Hello"
 var string2 = "World"
 
 result = " "
@@ -8,7 +11,7 @@ for (string in string1 ){
 for (string in string2 ){
     result = result + string2[string]
 }
-console.log(result + " \t" +  '\u0928\u092E\u0938\u094D\u0924\u0947')   */
+console.log(result + " \t" +  '\u0928\u092E\u0938\u094D\u0924\u0947')   */ 
 
 /* var input = {
     Name: "John",
